@@ -1,4 +1,7 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # ALVARO MARTÍNEZ CONDE SANZ (GRADUATE IN STATISTICS)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+> +34 662162133   alvaromartinezconde@ucm.es
 
 ### EXPERIENCE
 
@@ -75,7 +78,7 @@ Accounting for accounts and receipts.
 
 Tell people where the different parts of the event were.
 
-> Football coach -> FEM Collegue (2012-1014)
+> Football coach -> FEM School (2012-1014)
 
 Trying to make my school's students champions of Madrid in futsal like as I did.
                           
