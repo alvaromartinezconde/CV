@@ -7,10 +7,10 @@
 Participation in 4 projects for the realization of dashboards in Power BI:
 
 * Spanish Patent and Trademark Office (SPTO) - Public Sector: Project Manager. Technologies used: MySQL and Power BI
-* Generali Seguros: Collaborator in control panel. Technologies used: Github, Bitbucket, Talend, Power BI, SQL Server and powershell-windows
-  + Responsible for creating Dashboard with Jira data in EazyBI (MDX code)
-* Telefónica: Give support to all the control panels that they have within the company, this means: modifications of the existing ones, errors that arise, updates that arise
-to improve and optimize etc. Technologies used: MySQL and Power BI
+* Generali Seguros: 
+  + Collaborator in control panel. Technologies used: Github, Bitbucket, Talend, Power BI, SQL Server and powershell-windows
+  + Responsible for creating a Dashboard with Jira data in EazyBI (MDX code)
+* Telefónica: Give support to all the control panels that they have within the company, this means: modifications of the existing ones, errors that arise, updates that arise to improve and optimize etc. Technologies used: MySQL and Power BI
 * Junta de Andalucía - Public Sector: Responsible for creating a dashboard in Power BI. Technologies used: SQL Server, DBeaver and Power BI.
 * Training course - Data Analytics with Python
 
@@ -77,6 +77,17 @@ Trying to make my school's students champions of Madrid in futsal like as I did.
                           
 ### EDUCATION
 
+> Degree in Applied Statistics -> Complutense University Madrid "UCM" (2012-2019)
+Advanced Level Computing (SAS, SPSS, R, Python, Matlab, C ++ ...)
 
-                          
+> English Medium Level (B2) -> FEM School (bilingual school)
+6-months stay in Canada at age 16 and another 6 months at 21 in London.
+
+> Catholic University San Antonio de Murcia "UCAM" (2021-present)
+Qualification of final degree work : Merit (9) -> "Study of 'La Liga' soccer throughout its history. Relationship with market shares and their possible profit. Study of tendencies”.
+
+### OTHER INFORMATION
+
+I currently manage daily large databases related on football since 10 years ago. Great facility to find patterns within our data. Programs frequently used: R, Python, SAS, SPSS, EXCEL and POWER BI.
+Interest in learning and acquiring knowledge with new statistical tools and programs.
                           
