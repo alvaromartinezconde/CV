@@ -25,7 +25,7 @@
 * Categorize people into user groups and analyze their behavior online. (Clustering)
 * How social networks and SEO work. Audience analysis. Connection to the Twitter API for the subsequent study of the data obtained. 
 
-** Python, R, Adobe Analytics (Omniture)
++ Python, R, Adobe Analytics (Omniture)
 
 > Scholar (Marketing department) -> DKV Insurance (2018-2019)
 
@@ -34,7 +34,7 @@ Data extraction, transformation and loading (ETL).
 Statistical data analysis.
 * Support in the creation of a Dashboard for the Analysis of Commercial Activity and Knowledge of the Client.
 
-** SPSS (modeler and statistics), Power BI
++ SPSS (modeler and statistics), Power BI
 
 > Scholar (Food and Market research) -> NIELSEN (2017-2018)
 
@@ -53,4 +53,4 @@ Accounting for accounts and receipts
 
 > NGO Social Worker (London) -> Hammersmith & Fulham Mind (2010-2011)
 
-> Football coach -> FEM Collegue
+> Football coach -> FEM Collegue (2012-1014)
