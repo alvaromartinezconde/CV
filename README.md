@@ -26,6 +26,8 @@ Participation in 4 projects for the realization of dashboards in Power BI:
 * Collection, extraction and processing of data in R.
 * Management of machine learning techniques in R such as logistic regression, time series, neural networks, decission trees, clustering...
 
+  + R, Power BI, MySQL, SQL server
+
 > Data Scientist -> Luckia (2019-2019)
 
 * Predictions in databases, to help decision-making in the area of business (acquisition, customer retention, product).
@@ -34,6 +36,8 @@ Participation in 4 projects for the realization of dashboards in Power BI:
 * Collect business intelligence data from available industry reports, DGOJ public information, field reports etc.
 * Identify or monitor current and potential clients, using intelligence tools of business.
 * Analyze competitive market strategies through the study of trends related to the product.
+
+  + R, Power BI
 
 > Scholar (Audience Analyst) -> Diario AS (2019-2019)
 
