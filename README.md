@@ -96,4 +96,3 @@ Qualification of final degree work : Merit (9) -> "Study of 'La Liga' soccer thr
 
 Daily I currently manage large databases related on football since 10 years ago. Great facility to find patterns within our data. Software frequently used: R, Python, SAS, SPSS, EXCEL and POWER BI.
 Interest in keep learning and acquiring knowledge with new statistical tools and programs.
-                          
