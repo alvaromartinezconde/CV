@@ -1,5 +1,7 @@
 # ALVARO MARTÍNEZ CONDE SANZ (GRADUATE IN STATISTICS)
 
+### EXPERIENCE
+
 > BI Consultant -> ALTEN (2021-2022)
 
 Participation in 4 projects for the realization of dashboards in Power BI:
@@ -72,10 +74,8 @@ Tell people where the different parts of the event were.
 > Football coach -> FEM Collegue (2012-1014)
 
 Trying to make my school's students champions of Madrid in futsal like as I did.
-
-                          ------------------------------------------------------------------------------------------
                           
-### Professional Experience
+### EDUCATION
 
 
                           
