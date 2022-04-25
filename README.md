@@ -45,14 +45,16 @@ conclusions of these studies. Quality control of the studies.
 
 > Private class teacher (2008-2017)
 
-Mathematics, Physics and Chemistry
+Mathematics, Physics and Chemistry.
 
 > Property Manager Assistant (2011-2012)
 
-Accounting for accounts and receipts
+Accounting for accounts and receipts.
 
 > NGO Social Worker (London) -> Hammersmith & Fulham Mind (2010-2011)
 
-
+Tell people where the different parts of the event were.
 
 > Football coach -> FEM Collegue (2012-1014)
+
+Trying to make my school's students champions of Madrid in futsal like as I did.
