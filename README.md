@@ -34,7 +34,7 @@ Participation in 4 projects for the realization of dashboards in Power BI:
 
 > Data Scientist -> Luckia (2019-2019)
 
-* Predictions in databases, to help decision-making in the area of business (acquisition, customer retention, product).
+* Predictions in databases to help decision-making in the business area (acquisition, customer retention, product).
 * Conduct customer behavior and location analysis for correct segmentation that helps commercial actions.
 * Provide technical support for the creation of reports, dashboards or others existing tools. Create business intelligence tools or systems, including database design data, spreadsheets or related outputs.
 * Collect business intelligence data from available industry reports, DGOJ public information, field reports etc.
