@@ -1,5 +1,19 @@
 # ALVARO MARTÍNEZ CONDE SANZ (GRADUATE IN STATISTICS)
 
+> BI Consultant -> ALTEN (2021-2022)
+
+Participation in 4 projects for the realization of dashboards in Power BI:
+
+* Spanish Patent and Trademark Office (SPTO) - Public Sector: Project Manager. Technologies used: MySQL and Power BI
+* Generali Seguros: Collaborator in control panel. Technologies used: Github, Bitbucket, Talend, Power BI, SQL Server and cmd-windows
+* Responsible for creating Dashboard with Jira data in EazyBI (MDX code)
+* Telefónica: Give support to all the control panels that they have within the company, this means: modifications of the existing ones, errors that arise, updates that arise
+to improve and optimize etc. Technologies used: MySQL and Power BI
+* Junta de Andalucía - Public Sector: Responsible for creating a dashboard in Power BI. Technologies used: SQL Server, DBeaver and Power BI.
+* Training course - Data Analytics with Python
+
+  + R, Python, Power BI, MySQL, SQL Server, DBeaver, Talend, Github, Bitbucket, EazyBI
+
 > Data Scientist -> Datamind (2020-2020)
 
 * Development of Dashboards and Reports in Power BI for the presentation of results.
