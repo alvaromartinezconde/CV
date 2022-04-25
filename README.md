@@ -65,7 +65,7 @@ conclusions of these studies. Quality control of the studies.
 
 > Private class teacher (2008-2017)
 
-Mathematics, Physics and Chemistry.
+Mathematics
 
 > Property Manager Assistant (2011-2012)
 
