@@ -2,8 +2,6 @@
 # ALVARO MARTÍNEZ CONDE SANZ (GRADUATED IN STATISTICS)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##### CONTACT
-
 > +34 662162133   alvaromartinezconde@ucm.es
 
 ### EXPERIENCE
@@ -99,5 +97,5 @@ Qualification of final degree work : Merit (9) -> "Study of 'La Liga' soccer thr
 ### OTHER INFORMATION
 
 I currently manage daily large databases related on football since 10 years ago. Great facility to find patterns within our data. Software frequently used: R, Python, SAS, SPSS, EXCEL and POWER BI.
-Interest in learning and acquiring knowledge with new statistical tools and programs.
+Interest in keep learning and acquiring knowledge with new statistical tools and programs.
                           
