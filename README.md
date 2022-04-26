@@ -85,12 +85,13 @@ Trying to make school's students younger than me champions of Madrid in futsal l
 
 > Degree in Applied Statistics -> Complutense University Madrid "UCM" (2012-2019)
 Advanced Level Computing (SAS, SPSS, R, Python, Matlab, C ++ ...)
+Qualification of final degree work : Merit (9) -> "Study of 'La Liga' soccer throughout its history. Relationship with market shares and their possible profit. Study of tendencies”.
 
 > English Medium Level (B2) -> FEM School (bilingual school)
 6-months stay in Canada at age 16 and another 6 months at 21 in London.
 
-> Catholic University San Antonio de Murcia "UCAM" (2021-present)
-Qualification of final degree work : Merit (9) -> "Study of 'La Liga' soccer throughout its history. Relationship with market shares and their possible profit. Study of tendencies”.
+> Master´s Degree in in Sports Big Data -> Catholic University San Antonio de Murcia "UCAM" (2021-present)
+
 
 ### OTHER INFORMATION
 
