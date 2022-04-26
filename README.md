@@ -83,7 +83,7 @@ Trying to make school's students younger than me champions of Madrid in futsal l
                           
 ### EDUCATION
 
-> Master´s Degree in in Sports Big Data -> Catholic University San Antonio de Murcia "UCAM" (2021-present)
+> Master´s Degree in Sports Big Data -> Catholic University San Antonio de Murcia "UCAM" (2021-present)
 
 > Degree in Applied Statistics -> Complutense University Madrid "UCM" (2012-2019)
 Advanced Level Computing (SAS, SPSS, R, Python, Matlab, C ++ ...)
