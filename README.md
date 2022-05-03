@@ -6,7 +6,7 @@
 
 ### EXPERIENCE
 
-> BI Consultant -> ALTEN (2021-2022)
+> BI Consultant -> ALTEN (2020-2022)
 
 Participation in 4 projects for the realization of dashboards in Power BI:
 
