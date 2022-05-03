@@ -10,12 +10,12 @@
 
 Participation in 4 projects for the realization of dashboards in Power BI:
 
-* Spanish Patent and Trademark Office (SPTO) - Public Sector: Project Manager. Technologies used: MySQL and Power BI
+* Spanish Patent and Trademark Office (SPTO) - Public Sector: Project Manager. Software used: MySQL and Power BI
 * Generali Insurance: 
-  + Collaborator in control panel. Technologies used: Github, Bitbucket, Talend, Power BI, SQL Server and powershell-windows
+  + Collaborator in control panel. Software used: Github, Bitbucket, Talend, Power BI, SQL Server and powershell-windows
   + Responsible of creating a Dashboard with Jira data in EazyBI (MDX code)
-* Telefónica: Give support to all the control panels that the the company have, this means: modifications of the existing ones, errors that arise, updates that arise to improve and optimize etc. Technologies used: MySQL and Power BI
-* Junta de Andalucía - Public Sector: Responsible of creating a dashboard in Power BI. Technologies used: SQL Server, DBeaver and Power BI.
+* Telefónica: Give support to all the control panels that the the company have, this means: modifications of the existing ones, errors that arise, updates that arise to improve and optimize etc. Software used: MySQL and Power BI
+* Junta de Andalucía - Public Sector: Responsible of creating a dashboard in Power BI. Software used: SQL Server, DBeaver and Power BI.
 * Training course - Data Analytics with Python
 
   + R, Python, Power BI, MySQL, SQL Server, DBeaver, Talend, Github, Bitbucket, EazyBI
