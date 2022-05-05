@@ -23,7 +23,7 @@ Participation in 4 projects for the realization of dashboards in Power BI:
 > Data Scientist -> Datamind (2020-2020)
 
 * Development of Dashboards and Reports in Power BI for the presentation of results.
-* Define, collect, analyze and test all data and information requirements (KPI's) necessary for the correct operation of the reporting operations.
+* Define, collect, analyze and test all data and information requirements (KPI's) necessary for the correct reporting operations.
 * Identify, analyze and interpret trends by developing for prescriptive and predictive forecasting models.
 * Creation of mathematical models applied to business.
 * BBDD architecture (design and relational model). Data processing in SQL (MySQL, SQL server). Queries and DAX code.
